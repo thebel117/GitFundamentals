@@ -17,3 +17,5 @@ Once inside a git repository, you can start using commands such as
 and more.
 
 Init will create the repository in the current directory and will encapsulate all content, including other directories.
+
+[Back to home](../README.md)
